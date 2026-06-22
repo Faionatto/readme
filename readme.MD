@@ -14,9 +14,6 @@
 - **Linguagens:** HTML5, CSS3, JavaScript
 - **Ambientes & Ferramentas:** Git, GitHub, VS Code
 
----
 
-### 📈 Estatísticas do GitHub
-*(Estes blocos vão carregar automaticamente com os seus dados quando você atualizar o seu perfil)*
 
 
